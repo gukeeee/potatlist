@@ -3,16 +3,10 @@
     "name": "The Lightning Road",
     "author": "Timeless Real",
     "creators": ["Timeless Real"],
-    "verifier": "Timeless Real",
+    "verifier": "potatdesigns",
     "verification": "https://www.youtube.com/watch?v=OjMeikQYyPA",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "potatdesigns",
-            "link": "https://www.youtube.com/watch?v=OjMeikQYyPA",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }

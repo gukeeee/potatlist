@@ -3,16 +3,10 @@
     "name": "Sakupen Egg",
     "author": "Sivlol",
     "creators": ["Sivlol", "Skrypto", "InfiniteStyle", "Chuckgamer1", "Scopal", "Iris", "ImBK", "CDMusic", "Aksis", "Andhika", "Linear", "Yoonsr", "Connected"],
-    "verifier": "Sivlol",
+    "verifier": "potatdesigns",
     "verification": "https://www.youtube.com/watch?v=M61Vqi6ryj8",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "potatdesigns",
-            "link": "https://www.youtube.com/watch?v=M61Vqi6ryj8",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
